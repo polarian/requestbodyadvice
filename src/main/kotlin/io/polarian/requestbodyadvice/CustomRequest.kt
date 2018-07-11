@@ -1,0 +1,3 @@
+package io.polarian.requestbodyadvice
+
+annotation class CustomRequest
